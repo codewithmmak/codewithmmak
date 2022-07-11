@@ -7,7 +7,7 @@ I'm [Code with MMAK](https://codewithmmak.com/), a passionate self-taught QA fro
 
 I am also an open-source enthusiast and I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/codewithmmak/codewithmmak/blob/master/assets/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/codewithmmak/codewithmmak/blob/master/assets/code.gif?raw=true" width="200" height="120" />
   
   
 - 💼 any query work? do reach, [email](mailto:codewithmmak@gmail.com) :)
