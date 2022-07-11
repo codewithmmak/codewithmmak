@@ -14,6 +14,7 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**   
+
 <code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></code>
@@ -21,9 +22,9 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
 <code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
 
-🍎 | Mac OS
-🐧 | Linux 
-🏁 | Windows
+🍎 | Mac OS |
+🐧 | Linux |
+🏁 | Windows |
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
