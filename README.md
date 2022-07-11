@@ -13,12 +13,17 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
 - 💼 any query work? do reach, [email](mailto:codewithmmak@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+**languages and tools:**
+<code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
+
+🍎 | Mac OS
+🐧 | Linux 
+🏁 | Windows
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
