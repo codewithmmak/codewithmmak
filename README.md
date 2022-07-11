@@ -26,6 +26,11 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
 
+**platform tested on:**   
+
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"></code>
+
+
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
