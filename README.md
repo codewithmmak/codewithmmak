@@ -24,3 +24,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://twitter.com/codewithmmak">
   <img align="left" alt="Code with MMAK | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
+
+[![Twitter: CodeWithMMAK](https://img.shields.io/twitter/follow/CodeWithMMAK?style=social)](https://twitter.com/CodeWithMMAK)
+[![GitHub: CodeWithMMAK](https://img.shields.io/github/followers/CodeWithMMAK?label=follow&style=social)](https://github.com/CodeWithMMAK)
