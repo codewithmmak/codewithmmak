@@ -15,12 +15,12 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
 
 **languages and tools:**   
 
-<code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
 
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
