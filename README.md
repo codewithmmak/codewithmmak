@@ -13,7 +13,7 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
 - 💼 any query work? do reach, [email](mailto:codewithmmak@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**
+**languages and tools:**   
 <code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></code>
