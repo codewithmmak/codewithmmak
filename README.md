@@ -1,30 +1,6 @@
 ### Hi there 👋
 
-<!--
-**codewithmmak/codewithmmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<a href="https://twitter.com/codewithmmak">
-  <img align="left" alt="Code with MMAK | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-
-<br />
-<br />
-
-Hi, i'm [Code with MMAK](https://codewithmmak.com/), a passionate self-taught QA from india.
+I'm [Code with MMAK](https://codewithmmak.com/), a passionate self-taught QA from india.
 
 I am also an open-source enthusiast and I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -43,3 +19,8 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/codewithmmak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
+<a href="https://twitter.com/codewithmmak">
+  <img align="left" alt="Code with MMAK | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
