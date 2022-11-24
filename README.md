@@ -10,8 +10,8 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
   <img align="right" alt="GIF" src="https://github.com/codewithmmak/codewithmmak/blob/master/assets/code.gif?raw=true" width="600" height="450" />
   
   
-- 💼 any query work? do reach, [email](mailto:codewithmmak@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 any query? do reach, [email](mailto:codewithmmak@gmail.com) :)
+- 💬 ask me about anything, I am happy to help;
 
 **languages:**   
 
