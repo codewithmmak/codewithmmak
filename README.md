@@ -13,6 +13,8 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
 - 💼 any query? do reach, [email](mailto:codewithmmak@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
 
+[![Code with MMAK's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmmak)](https://github.com/anuraghazra/github-readme-stats)
+
 **languages:**   
 
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
