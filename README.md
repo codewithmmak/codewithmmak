@@ -4,7 +4,7 @@
 [![Twitter: CodeWithMMAK](https://img.shields.io/twitter/follow/CodeWithMMAK?style=social)](https://twitter.com/CodeWithMMAK)
 [![GitHub: CodeWithMMAK](https://img.shields.io/github/followers/CodeWithMMAK?label=follow&style=social)](https://github.com/CodeWithMMAK)
 
-<img align="right" alt="GIF" src="https://github.com/codewithmmak/codewithmmak/blob/master/assets/code.gif?raw=true" width="600" height="300" />
+<img align="right" alt="GIF" src="https://github.com/codewithmmak/codewithmmak/blob/master/assets/code.gif?raw=true" width="500" height="300" />
 
 I'm [Code with MMAK](https://codewithmmak.com/), a passionate self-taught QA from india.
 
