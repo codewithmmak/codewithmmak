@@ -37,7 +37,8 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
 
 [![Code with MMAK's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmmak)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
-<img align="right" alt="GIF" src="https://github.com/codewithmmak/codewithmmak/blob/master/assets/code.gif?raw=true" width="600" height="300" />
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/sponsors/codewithmmak" data-icon="octicon-heart" aria-label="Sponsor @codewithmmak on GitHub">Sponsor</a>
 
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
