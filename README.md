@@ -37,6 +37,8 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
 
 [![Code with MMAK's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmmak)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+<img align="right" alt="GIF" src="https://github.com/codewithmmak/codewithmmak/blob/master/assets/code.gif?raw=true" width="600" height="300" />
 
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/codewithmmak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
