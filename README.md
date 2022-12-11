@@ -8,7 +8,7 @@ I'm [Code with MMAK](https://codewithmmak.com/), a passionate self-taught QA fro
 
 I am also an open-source enthusiast and I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://github.com/codewithmmak/codewithmmak/blob/master/assets/code.gif?raw=true" width="300" height="450" />
+<img align="right" alt="GIF" src="https://github.com/codewithmmak/codewithmmak/blob/master/assets/code.gif?raw=true" width="600" height="300" />
 
 **languages:**
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
