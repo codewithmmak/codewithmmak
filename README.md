@@ -4,13 +4,11 @@
 [![Twitter: CodeWithMMAK](https://img.shields.io/twitter/follow/CodeWithMMAK?style=social)](https://twitter.com/CodeWithMMAK)
 [![GitHub: CodeWithMMAK](https://img.shields.io/github/followers/CodeWithMMAK?label=follow&style=social)](https://github.com/CodeWithMMAK)
 
-I'm [Code with MMAK](https://codewithmmak.com/), a passionate self-taught QA from india.
-
 <img align="right" alt="GIF" src="https://github.com/codewithmmak/codewithmmak/blob/master/assets/code.gif?raw=true" width="600" height="300" />
 
+I'm [Code with MMAK](https://codewithmmak.com/), a passionate self-taught QA from india.
+
 I am also an open-source enthusiast and I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
-
 
 **languages:**
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
