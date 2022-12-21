@@ -52,3 +52,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 
 <h3><a href="https://www.codewithmmak.com">➡️ Check out my website</a></h3>
+
+<h3>Latest Tweets</h3>
+<p><a href="https://twitter.com/codewithmmak"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=codewithmmak&amp;layout=wide" alt="github-readme-twitter"></a></p>
