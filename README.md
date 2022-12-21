@@ -19,9 +19,16 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
 
 **tools:**
 
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"></code>
 
 **platform tested on:** 
 
@@ -34,11 +41,7 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
 - 💬 ask me about anything, I am happy to help;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmmak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Code with MMAK's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmmak)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/sponsors/codewithmmak" data-icon="octicon-heart" aria-label="Sponsor @codewithmmak on GitHub">Sponsor</a>
 
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
