@@ -53,3 +53,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <h3>Latest Tweets</h3>
 <p><a href="https://twitter.com/codewithmmak"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=codewithmmak&amp;layout=wide" alt="github-readme-twitter"></a></p>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/codewithmmak/codewithmmak)
+![pv](https://pageview.vercel.app/?github_user=codewithmmak)
