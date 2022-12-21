@@ -40,8 +40,8 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
 - 💼 any query? do reach, [email](mailto:codewithmmak@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmmak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Code with MMAK's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmmak)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmmak&layout=compact) width="500" height="300"](https://github.com/anuraghazra/github-readme-stats)
+[![Code with MMAK's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmmak) width="500" height="300"](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
