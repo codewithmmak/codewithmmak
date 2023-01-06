@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 [![YouTube: CodeWithMMAK](https://img.shields.io/youtube/channel/subscribers/UCcPIISmBS_8kpaZMDRbbuVQ?style=social)](https://www.youtube.com/@codewithmmak?sub_confirmation=1)
 [![Twitter: CodeWithMMAK](https://img.shields.io/twitter/follow/CodeWithMMAK?style=social)](https://twitter.com/CodeWithMMAK)
@@ -10,7 +10,7 @@ I'm [Code with MMAK](https://codewithmmak.com/), a passionate self-taught QA fro
 
 I am also an open-source enthusiast and I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-**Languages & Tools:**
+##Languages & Tools:
 
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"></code>
@@ -28,7 +28,7 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"></code>
 
-**Platform tested on:** 
+##Platform tested on:
 
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></code>
@@ -38,11 +38,7 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
 - 💼 any query? do reach, [email](mailto:codewithmmak@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmmak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Code with MMAK's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmmak)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
-
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=codewithmmak&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codewithmmak&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmmak&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
