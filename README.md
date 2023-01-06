@@ -42,6 +42,18 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
 [![Code with MMAK's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmmak)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codewithmmak&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codewithmmak&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmmak&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=codewithmmak&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/codewithmmak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
