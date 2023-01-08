@@ -53,12 +53,12 @@ I am also an open-source enthusiast and I learned a lot from the open-source com
 <!-- If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/codewithmmak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
-<h3>Where to find me</h3>
+<!-- <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/codewithmmak" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://twitter.com/codewithmmak" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/codewithmmak" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+</p> -->
 
 <h3><a href="https://www.codewithmmak.com">➡️ Check out my website</a></h3>
 
