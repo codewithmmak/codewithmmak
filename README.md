@@ -114,7 +114,3 @@ I believe the future of QA is not just automation — it's **AI-driven decision 
 
 > "From Automation to Autonomy — building the future of AI-driven Quality Engineering."
 
----
-
-![GitHub last commit](https://img.shields.io/github/last-commit/codewithmmak/codewithmmak)
-![pv](https://pageview.vercel.app/?github_user=codewithmmak)
