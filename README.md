@@ -4,7 +4,7 @@
 [![Twitter: CodeWithMMAK](https://img.shields.io/twitter/follow/CodeWithMMAK?style=social)](https://twitter.com/CodeWithMMAK)
 [![GitHub: CodeWithMMAK](https://img.shields.io/github/followers/CodeWithMMAK?label=follow&style=social)](https://github.com/CodeWithMMAK)
 
-<img align="right" alt="AI GIF" src="https://github.com/codewithmmak/codewithmmak/blob/master/assets/code.gif?raw=true" width="500" height="300" />
+<img align="right" alt="AI GIF" src="https://github.com/codewithmmak/codewithmmak/blob/master/assets/code.gif?raw=true" width="300" height="300" />
 
 ## 🚀 About Me
 
